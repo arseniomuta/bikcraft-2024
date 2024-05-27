@@ -4,9 +4,10 @@
 
 @import "./global/header.css";
 @import "./global/footer.css";
-/* Utilidades */
 
+/* Utilidades */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
 /* Home */
 
@@ -30,3 +31,7 @@
 
 /* Termos */
 @import "../css/termos/termos.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
